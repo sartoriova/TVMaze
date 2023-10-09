@@ -1,0 +1,26 @@
+/* Damaris Potira, Hadassa Rodrigues e Valéria Sartorio */
+
+.divForm {
+    width: 400px;
+    height: 200px;
+    margin-left: 450px;
+}
+
+.card {
+    margin: auto;
+    width: 20rem;
+    height: 100%;
+}
+
+h3 {
+    text-align: center;
+}
+
+.btn-close {
+    background-color: white;
+    border: none;
+}
+
+.modal {
+    overflow: scroll;
+}
