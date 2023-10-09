@@ -1,5 +1,3 @@
-//Damaris Potira, Hadassa Rodrigues e Valéria Sartorio
-
 $("form").submit(function (e) {
     e.preventDefault()
     let nomePrograma = $("input").val()
